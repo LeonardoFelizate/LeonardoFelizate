@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Leonardo Felizate👋
 
-- 🔭 Hoje estudo Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web, mais precisamente no Front-End.
+- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web, mais precisamente no Front-End.
 - 🌱 Estudando HTML, CSS e JavaScript.
-- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://github.com/LeonardoFelizate">
