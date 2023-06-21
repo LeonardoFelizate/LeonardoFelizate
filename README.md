@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Felizate!
+## Olá! Eu sou o Leonardo Felizate👋
 
 - 🔭 Hoje estudo Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web, mais precisamente no Front-End.
 - 🌱 Estudando HTML, CSS e JavaScript.
@@ -6,9 +6,12 @@
 
 <div>
   <a href="https://github.com/LeonardoFelizate">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFelizate&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFelizate&layout=compact&langs_count=168theme="/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFelizate&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFelizate&layout=compact&langs_count=168&theme=transparent"/>
+  </a>
 </div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
